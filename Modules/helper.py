@@ -25,4 +25,4 @@ def validate_and_execute(days_and_units_dict):
         print("O valor digitado não é válido! Programa parado ")
 
 
-user_input_message = "Digite o num. de dias e a unidade de conversão separados por :"
+user_input_message = "Digite o num. de dias e a unidade de conversão separados por :\n"
